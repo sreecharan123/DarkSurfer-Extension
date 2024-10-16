@@ -1,4 +1,4 @@
-# DarkPatternLLM
+# DarkPatternLLM(llm)
 
 DarkPatternLLM is a project aimed at detecting and combating dark patterns on websites using advanced Language Models (LLMs). This tool provides users with a more transparent and user-friendly online experience.
 
